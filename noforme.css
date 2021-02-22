@@ -1,3 +1,4 @@
+
 body{
     background-color: azure;
 }
@@ -5,7 +6,8 @@ h1{
     color: fuchsia;
 }
 
-
+#mk{
+    color: rgb(0, 119, 255);
 
 
 
@@ -19,5 +21,4 @@ h2{
   
 #jan{
     color: #511387;
-
 }
