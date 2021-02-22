@@ -13,9 +13,13 @@ h1{
 
 h2{
     color: rgb(9, 255, 0);
-
+#Aleksis{
+    color: goldenrod;
+}
   
-  
+ #km{
+        color: rgb(0, 255, 42);
+    }  
   
   
   
@@ -23,6 +27,3 @@ h2{
     color: #511387;
 }
 
-#Aleksis{
-    color: goldenrod;
-}
