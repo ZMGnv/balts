@@ -29,11 +29,20 @@ h2{
   
  #km{
         color: rgb(0, 255, 42);
+
+    } 
+
+    #ak{
+        color:red;
+     }
+
+
     }  
   
   #ej{
       color:brown
   }
+
   
 #jan{
     color: #511387;
