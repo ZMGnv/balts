@@ -9,8 +9,13 @@ h1{
     color: rgb(0, 119, 255);
 
 
+
     #annce {
     color:chartreuse;
+
+#annce{
+    color:chartreuse;}
+
 
 
 
@@ -26,12 +31,19 @@ h2{
         color: rgb(0, 255, 42);
     }  
   
-  
+  #ej{
+      color:brown
+  }
   
 #jan{
     color: #511387;
 }
 #mar{color: aqua;}
+#kf {color:red;}
+
+#pb{color:blue;}
+
+#sf{color:rgb(134, 126, 79)}
 
 
 
