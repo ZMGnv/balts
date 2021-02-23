@@ -7,9 +7,19 @@ h1{
 
 #mk{
     color: rgb(0, 119, 255);
-}
+
+
+
+    #annce {
+    color:chartreuse;
+
 #annce{
     color:chartreuse;}
+
+
+
+
+
 
 h2{
     color: rgb(9, 255, 0);}
@@ -35,3 +45,7 @@ h2{
 
 #sf{color:rgb(134, 126, 79)}
 
+
+
+
+#tj {color: darkred;}
