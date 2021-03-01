@@ -7,10 +7,15 @@ h1{
 
 #mk{
     color: rgb(0, 119, 255);
+<<<<<<< HEAD
+}
+#annce{
+=======
 
 
 
     #annce {
+>>>>>>> 966ae76162e980ed42f68a37b36c639f4d61db25
     color:chartreuse;
 
 #annce{
@@ -26,7 +31,7 @@ h2{
 #Aleksis{
     color: goldenrod;
 }
-  
+
  #km{
         color: rgb(0, 255, 42);
 
@@ -64,3 +69,6 @@ h2{
 
 #tj {color: darkred;}
 
+#nt{
+    color: #654321
+}
