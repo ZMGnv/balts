@@ -7,25 +7,67 @@ h1{
 
 #mk{
     color: rgb(0, 119, 255);
+<<<<<<< HEAD
 }
 #annce{
+=======
+
+
+
+    #annce {
+>>>>>>> 966ae76162e980ed42f68a37b36c639f4d61db25
     color:chartreuse;
 
+#annce{
+    color:chartreuse;}
+
+
+
+
+
+
 h2{
-    color: rgb(9, 255, 0);
+    color: rgb(9, 255, 0);}
 #Aleksis{
     color: goldenrod;
 }
 
  #km{
         color: rgb(0, 255, 42);
+
+    } 
+
+    #ak{
+        color:red;
+     }
+
+
     }  
   
-  
+  #ej{
+      color:brown
+  }
+
   
 #jan{
     color: #511387;
 }
+#mar{color: aqua;}
+#kf {color:red;}
+
+#pb{color:blue;}
+
+#sf{color:rgb(134, 126, 79)}
+
+
+
+
+
+#Kriss{
+    color: orange;
+}
+
+#tj {color: darkred;}
 
 #nt{
     color: #654321
